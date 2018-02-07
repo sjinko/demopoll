@@ -1,0 +1,19 @@
+DATA
+--------
+Ménages privés selon la taille du ménage et la région, 1970-2000
+
+SOURCE
+------------
+BFS
+
+LINK
+-------
+https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-4001000000_101/-/px-x-4001000000_101.px/table/tableViewLayout2/?rxid=c2bffd92-dc7d-4b6c-892d-67bd05b811a9
+
+DESCRIPTION
+-------------------
+Rows: Municipalities (......0001 Aeugst am Albis – ......6810 La Baroche)
+Columns: Years [1980, 1990, 2000]
+
+SOURCE NOTES
+-----------------------

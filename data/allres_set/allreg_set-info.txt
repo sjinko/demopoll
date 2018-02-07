@@ -1,0 +1,36 @@
+DATA
+--------
+Bilan de la population résidante permanente selon le niveau géographique institutionnel, la nationalité (catégorie), le sexe et la composante démographique
+
+SOURCE
+------------
+BFS
+
+LINK
+-------
+https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-0102020000_201/-/px-x-0102020000_201.px/table/tableViewLayout2/?rxid=8c53bee3-2b18-437f-9ae2-4a1f26e416d0
+
+DESCRIPTION
+-------------------
+Rows: Municipalities (......0001 Aeugst am Albis – ......6810 La Baroche)
+Columns: Years (1981-2016)
+
+SOURCE NOTES
+-----------------------
+Remarques
+Métainformation:
+Dernière modification: nouvelles données 2016
+Période de l'enquête: 1er janvier au 31 décembre
+Référence spatiale: communes au 01.07.2016
+Les données communales disponibles dans ce Cube proviennent des sources suivantes :
+1981-2010: Statistique de l'état annuel de la population ESPOP
+Dès 2011: Statistique de la population et des ménages STATPOP
+ESPOP était une statistique de synthèse ayant comme sources la OFS – Statistique du mouvement naturel de la population (BEVNAT) – © OFS
+, la Statistique de la population résidante de nationalité étrangère (PETRA) ainsi que la statistique des mouvements migratoires des personnes de nationalité suisse. Elle s'appuyait également sur les résultats des Recensements fédéraux et faisait alors l'objet d'adaptations dans les années 1991 et 2001. En raison de ces adaptations, l'état de la population au 31 décembre 1990, resp. 2000, diffère de celui au 1er janvier 1991, resp. 2001. ESPOP était établie à l'aide de la méthode de mise à jour progressive (bilan démographique). Celle-ci consiste à déterminer l'effectif de la population le 31 décembre d'une année donnée en ajoutant à l'effectif du 1er janvier de la même année les naissances et les arrivées (migration internationale et interne) survenues cette année-là et en y retranchant les décès et les départs.
+STATPOP remplace ESPOP et se base sur les registres de personnes de la Confédération et sur les registres des habitants des communes et des cantons, ainsi que sur une nouvelle méthode de production.
+Le bilan de la population de 2010 se base sur ESPOP. C'est pour cette raison que l'état de population au 31.12.2010 dans le Cube ne correspond pas aux chiffres officiels selon STATPOP et le nombre de décès ne correspond pas au chiffre officiel selon la OFS – Statistique du mouvement naturel de la population (BEVNAT) – © OFS
+. L'accroissement naturel, la variation de population et la population résidante permanente moyenne de 2010 se basent également sur ESPOP.
+Avec l'introduction de STATPOP, la définition de « population résidante permanente » change. Par rapport à ESPOP, la population résidante permanente selon STATPOP comprend à partir du 31.12.2010 les personnes dans le processus d'asile résidant depuis 12 mois ou plus en Suisse.
+La composante démographique « Changement du type de population » comprend les passages de personnes de la population résidante non permanente à la population résidante permanente. Ces personnes sont également arrivées en Suisse par le biais de la migration, mais ne sont comptées dans la statistique de population que l'année civile où ils passent dans la population résidante permanente. Cette composante est toujours comprise dans les « Immigration » et le « Solde migratoire ».
+Les données illustrent l'état des communes au 31 décembre de l'année la plus récente. Il faut noter que les communes thurgoviennes de Neukirch an der Thur (4505), Illighausen (4670) et Scherzingen (4695) sont toujours représentées – même si elles n'existent plus – car une distribution rétroactive de la population résidante n'est pas possible avant 1994.
+D'autres concepts et définitions généraux sont disponibles sur le site de l'OFS à l'adresse suivante: définitions.

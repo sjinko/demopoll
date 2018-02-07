@@ -1,0 +1,21 @@
+DATA
+--------
+Statistique de la superficie: Nomenclature standard (NOAS04) par district et commune, en hectares
+
+SOURCE
+------------
+BFS
+
+LINK
+-------
+https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-0202020000_102/-/px-x-0202020000_102.px/table/tableViewLayout2/?rxid=03ad7746-64aa-4676-9475-0041f482ce31
+
+DESCRIPTION
+-------------------
+Rows: Municipalities (......0001 Aeugst am Albis – ......6810 La Baroche)
+Columns:
+	Level 1: Years [1979/1985, 1992/1997, 2004/2009]
+
+SOURCE NOTES
+----------------------
+Sum of following categories: “-a Surfaces d'habitat et d'infrastructure”

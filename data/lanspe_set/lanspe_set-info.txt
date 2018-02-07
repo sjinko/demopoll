@@ -1,0 +1,21 @@
+DATA
+--------
+Population résidante en 2000 selon Canton (-) / District (>>) / Commune (......) et Langue principale
+
+
+SOURCE
+------------
+BFS
+
+LINK
+-------
+https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-4003000000_123/-/px-x-4003000000_123.px/table/tableViewLayout2/?rxid=d8cc70b4-d809-492e-b982-3691531e74aa
+
+DESCRIPTION
+-------------------
+Rows: Municipalities (......0001 Aeugst am Albis – ......6810 La Baroche)
+Columns:
+	Level 1: National language [Allemand, Francais, Italien, Romanche]
+
+SOURCE NOTES
+----------------------

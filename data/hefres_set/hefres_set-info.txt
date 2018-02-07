@@ -1,0 +1,22 @@
+DATA
+--------
+Population résidante au domicile économique selon Canton (-) / District (>>) / Commune (......), Nationalité et Plus haute formation achevée
+
+SOURCE
+------------
+BFS
+
+LINK
+-------
+https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-4002000000_161/-/px-x-4002000000_161.px/table/tableViewLayout2/?rxid=6822b033-0847-4392-9bbe-9b42532fed25
+
+DESCRIPTION
+-------------------
+Rows: Municipalities (......0001 Aeugst am Albis – ......6810 La Baroche)
+Columns:
+	Level 1: Nationality (Swiss, Foreign)
+	Level 2: Higher Education Degree (Prof. Sup, HES, UNI)
+
+SOURCE NOTES
+----------------------
+This count comprises the number of individual having achieved a “higher” education degree. In this, we include: 1. École préparant à la maturité, école normale; 2. Formation professionnelle supérieure; 3. École professionnelle supérieure; 4. Université, haute école.

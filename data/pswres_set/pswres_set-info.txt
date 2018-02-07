@@ -1,0 +1,20 @@
+DATA
+--------
+Population résidante au domicile économique selon Canton (-) / District (>>) / Commune (......), Secteur économique et Année
+
+SOURCE
+------------
+BFS
+
+LINK
+-------
+https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-4001000000_141/-/px-x-4001000000_141.px/table/tableViewLayout2/?rxid=276bc7b8-f2d3-4772-afb3-cd530d09086c
+DESCRIPTION
+-------------------
+Rows: Municipalities (......0001 Aeugst am Albis – ......6810 La Baroche)
+Columns:
+	Level 1: Secteur primaine
+	Level 2: Years [1980, 1990, 2000]
+
+SOURCE NOTES
+----------------------
